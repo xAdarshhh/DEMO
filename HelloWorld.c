@@ -2,6 +2,6 @@
 
 int main()
 {
-		printf("Hello World! This is Geeksforgeeks.org")
+		printf("Hello World! This is Adarsh is Jod.org")
 		return 0;
 }
